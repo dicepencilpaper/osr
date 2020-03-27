@@ -1,15 +1,14 @@
-# Bestiarum Geondica
+# Bestiarum Geondica - Playing card edition
 
-## Playing card edition
+These tables are based on the original [Bestiarum Geondica](https://natetreme.itch.io/bestiarum) by [Highland Paranormal Society](https://natetreme.itch.io/). The original tables go from 11 to 66. Since there are more cards than that, I took the liberty of adding more creatures and descriptions to each table.
 
-* Clubs: Smell
-* Diamonds: Sight
-* Hearts: Sound
-* Spades: Other
+Let me know what you think!
 
 ## Monster tables
 
-Draw three cards and consult the tables below.
+Draw three cards and consult the tables below for each card drawn, in order.
+
+### I - Appearance
 
 | Card   | Clubs         | Diamonds         | Hearts           | Spades         |
 |--------|---------------|------------------|------------------|----------------|
@@ -27,6 +26,8 @@ Draw three cards and consult the tables below.
 | Queen  | Vibrating     | Leafy            | Fuzzy            | Wrinkled       |
 | King   | Polished      | Acrid            | Sulphorous       | Transparent    |
 
+### II - Additional description
+
 | Card   | Clubs         | Diamonds         | Hearts           | Spades         |
 |--------|---------------|------------------|------------------|----------------|
 | Ace    | Acid          | Vomit            | Barn             | Belch          |
@@ -42,6 +43,8 @@ Draw three cards and consult the tables below.
 | Jack   | Obsidian      | Winged           | Slime            | Thin           |
 | Queen  | Tooth         | Fleshy           | Fatty            | Bile           |
 | King   | Blood         | Phlegm           | Water            | Gaseous        |
+
+### III - Beast or entity
 
 | Card   | Clubs         | Diamonds         | Hearts           | Spades         |
 |--------|---------------|------------------|------------------|----------------|
