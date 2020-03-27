@@ -12,7 +12,7 @@
 Draw three cards and consult the tables below.
 
 | Card   | Clubs         | Diamonds         | Hearts           | Spades         |
-|--------+---------------+------------------+------------------+----------------+
+|--------|---------------|------------------|------------------|----------------|
 | Ace    | Albino        | Arboreal         | Carnivorous      | Chittering     |
 | 2      | Crimson       | Fetid            | Floral           | Gelatinous     |
 | 3      | Grinning      | Invoked          | Knobby           | Laughing       |
@@ -28,7 +28,7 @@ Draw three cards and consult the tables below.
 | King   | Polished      | Acrid            | Sulphorous       | Transparent    |
 
 | Card   | Clubs         | Diamonds         | Hearts           | Spades         |
-|--------+---------------+------------------+------------------+----------------+
+|--------|---------------|------------------|------------------|----------------|
 | Ace    | Acid          | Vomit            | Barn             | Belch          |
 | 2      | Bell          | Blister          | Bone             | Slab           |
 | 3      | Cave          | Cloud            | Corpse           | Crystal        |
@@ -44,7 +44,7 @@ Draw three cards and consult the tables below.
 | King   | Blood         | Phlegm           | Water            | Gaseous        |
 
 | Card   | Clubs         | Diamonds         | Hearts           | Spades         |
-|--------+---------------+------------------+------------------+----------------+
+|--------|---------------|------------------|------------------|----------------|
 | Ace    | Ape           | Bat              | Cat              | Child          |
 | 2      | Dragger       | Dwarf            | Eater            | Fly            |
 | 3      | Gnome         | Goat             | Hound            | Imp            |
